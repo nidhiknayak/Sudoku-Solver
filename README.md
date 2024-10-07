@@ -1,0 +1,1 @@
+This Python code generates a random Sudoku puzzle by filling a 9x9 board using backtracking and then removing a number of cells to create a solvable puzzle. It prints the initial board, solves the puzzle, and then displays the completed board.
